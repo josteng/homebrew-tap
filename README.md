@@ -8,4 +8,4 @@ brew install --cask josteng/heft/heft
 
 That installs `Heft.app` and a `heft` command. `brew upgrade --cask heft` follows new releases.
 
-Requires macOS 26.
+Requires macOS 26 on Apple Silicon.
