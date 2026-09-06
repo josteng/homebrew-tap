@@ -13,6 +13,7 @@ cask "heft" do
   end
 
   depends_on macos: :tahoe
+  depends_on arch: :arm64
 
   app "Heft.app"
   binary "#{appdir}/Heft.app/Contents/MacOS/Heft", target: "heft"
