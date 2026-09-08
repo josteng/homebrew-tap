@@ -1,6 +1,6 @@
 cask "heft" do
-  version "0.3.1"
-  sha256 "13910f80bf9de40ae84a409e4e69a9ea97c88b55b3258d2930bcd6789b7d647d"
+  version "0.4.0"
+  sha256 "34e4cc37eb0606b0f7c71a885f9906d2a15a1812953624192c75b9728c63c8d9"
 
   url "https://github.com/josteng/Heft/releases/download/v#{version}/Heft-#{version}.zip"
   name "Heft"
